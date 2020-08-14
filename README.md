@@ -1,7 +1,8 @@
-# computer_vision_playground
+# Computer vision playground
 
 Welcome! 
-This repo is intended as a place to gather some small computer vision projects in notebooks, that don't justify having their own repo.
+
+This repo is intended as a place to gather some notebooks containing small computer vision projects that didn't justify having their own repo.
 
 Each notebook is intended to have a self-explanatory title, and work standalone or aided by the utils.py file. 
 They should be run in a virtualenv as follows:
